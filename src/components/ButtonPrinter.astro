@@ -1,0 +1,40 @@
+---
+import Printer from "@/icons/Printer.astro"
+---
+
+<footer>
+    <span>Presiona <kbd>CTRL</kbd> + <kbd>P</kbd> para imprimir </span>
+    <Printer />
+</footer>
+
+<style>
+    footer{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        background-color: #eee;
+        border: 1px solid #d8d8d8;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        padding-block: 16px;
+        text-align: center;
+        font-size: 1.3rem;
+    }
+
+    kbd{
+        color: white;
+        background: #7a7a7a;
+        border-radius: 4px;
+        padding: 2px 4px;
+        font-size: 14px;
+    }
+
+    @media print {
+        footer{
+            display: none;
+        }
+    }
+</style>

@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Facundo Emir Acevedo",
+    "label": "FrontEnd Developer",
+    "image": "./src/images/profile-img.jpeg",
+    "email": "acevedofacundoemir@gmail.com",
+    "phone": "+54 9 1123912161",
+    "summary": "Soy una persona responsable, organizada, empática y altruista.Aprendo muy rápido, me encanta el trabajo en equipo y me apasionan los desafios. Se trabajar bajo presión y soy muy versátil. Muy optimista, me gusta solucionar problemas y encontrar soluciones.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Lanús",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "facundo-emir-acevedo",
+        "url": "https://www.linkedin.com/in/facundo-emir-acevedo/",
+        "icon": "./src/icons/LinkedIn.svg"
+      },
+      {
+        "network": "GitHub",
+        "username": "facuacevedo",
+        "url": "https://github.com/facuacevedo",
+        "icon": "./src/icons/Github.svg"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Underqubit",
+      "position": "Developer Jr",
+      "url": "",
+      "startDate": "2024-03",
+      "endDate": null,
+      "summary": "Actualmente estoy trabajando en esta empresa fundada por un colega. Es quien me brinda capacitación diaria. En mi día a día estudio y desarrollo pocs sobre Typescript, Astro, React y React Native, estas son las tecnologías que utilizamos para desarrollar una aplicación de estudiantes. La misma es un proyecto que realizamos a día de hoy junto a mi colega quien es mi superior. Algunos ejercicios que realizamos en conjunto y bajo su supervisión fueron: Diagramado de la aplicación (Modelo Entidad Relación), maquetado de la aplicación de estudiantes(React Native Expo), desarrollo de algunas funcionalidades como la autenticación de usuarios, entre otros. También aprendí sobre las clean architectures como es la Arquitectura Hexagonal o Ports And Adapters."
+    },
+    {
+      "name": "Teleperformance",
+      "position": "Analista de calidad",
+      "url": "",
+      "startDate": "2023-10-10",
+      "endDate": "2024-02",
+      "summary": "Trabajé como Anlista de Calidad para una empresa de Customer Care, algunas de mis tareas eran: elaboración y análisis de informes (destacando fortalezas y oportunidades de mejora por agente y grupo), análisis e identificación de posibles ineficiencias en la creación de casos, calibración de casos: análisis, evaluación y critica de casos aleatorios identificando patrones y áreas de mejora, reversión de casos detractores identificados a través de las puntuaciones de encuestas recibidas. Si bien este trabajo no está relacionado al rubro, obtuve una grata experiencia en la toma de decisiones, ya que debíamos solucionar los inconvenientes ocasiones de manera rápida y eficaz."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional",
+      "area": "Tecnicatura en Programación",
+      "studyType": "Tecnicatura",
+      "startDate": "2024-08-26",
+      "endDate": "2027-08",
+      "courses": [""]
+    },
+    {
+      "institution": "Instituto El Castillo",
+      "area": "Bachiller en Administración y Economía",
+      "studyType": "Bachiller",
+      "startDate": "2013-03",
+      "endDate": "2019-12",
+      "courses": [""]
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "url": "./src/icons/React.svg"
+    },
+    {
+      "name": "React Native",
+      "url": "./src/icons/React.svg"
+    },
+    {
+      "name": "Typescript",
+      "url": "./src/icons/Typescript.svg"
+    },
+    {
+      "name": "Javascript",
+      "url": "./src/icons/Javascript.svg"
+    },
+    {
+      "name": "HTML",
+      "url": "./src/icons/Html.svg"
+    },
+    {
+      "name": "CSS",
+      "url": "./src/icons/Css.svg"
+    },
+    {
+      "name": "Tailwind",
+      "url": "./src/icons/Tailwind.svg"
+    },
+    {
+      "name": "Shadcn",
+      "url": "./src/icons/Shadcn.svg"
+    },
+    {
+      "name": "MySQL",
+      "url": "./src/icons/Mysql.svg"
+    },
+    {
+      "name": "Git",
+      "url": "./src/icons/Git.svg"
+    },
+    {
+      "name": "GitHub",
+      "url": "./src/icons/Github.svg"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Idioma Nativo"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Calculator-App",
+      "description": "Aplicación clon de la calculadora de los sitemas operativos IOS",
+      "highlights": ["React Native", "Typescript"],
+      "url": "https://github.com/facuacevedo/calculator-app"
+    },
+    {
+      "name": "Spotify Clone App - en proceso",
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": ["Astro", "React", "Shadcn", "Zustand", "Tailwind"],
+      "url": "https://github.com/facuacevedo/spotify-clone-app"
+    }
+  ]
+}
