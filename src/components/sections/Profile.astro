@@ -5,7 +5,7 @@ import Section from '../Section.astro'
 import Phone from '@/icons-astro/Phone.astro';
 import Mail from '@/icons-astro/Mail.astro';
 
-const { name, label, location, profiles, phone, email,  } = basics
+const { name, label, image, location, profiles, phone, email,  } = basics
 const { city, region} = location
 ---
 
@@ -47,7 +47,7 @@ const { city, region} = location
         </div>
 
         <figure>
-            <img class="profile-img" src="../../images/profile-img.png" alt="Profile image">
+            <img class="profile-img" src={image} alt="Profile image">
         </figure>
     </div>
 </Section>

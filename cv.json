@@ -2,7 +2,7 @@
   "basics": {
     "name": "Facundo Emir Acevedo",
     "label": "FrontEnd Developer",
-    "image": "./public/images/profile-image.webp",
+    "image": "/images/profile-img.webp",
     "email": "acevedofacundoemir@gmail.com",
     "phone": "+54 9 1123912161",
     "summary": "Soy una persona responsable, organizada, empática y altruista. Aprendo muy rápido, me encanta el trabajo en equipo y me apasionan los desafios. Se trabajar bajo presión y soy muy versátil. Muy optimista, me gusta solucionar problemas y encontrar soluciones.",
@@ -18,13 +18,13 @@
         "network": "LinkedIn",
         "username": "facundo-emir-acevedo",
         "url": "https://www.linkedin.com/in/facundo-emir-acevedo/",
-        "icon": "../../icons/LinkedIn.svg"
+        "icon": "/icons/LinkedIn.svg"
       },
       {
         "network": "GitHub",
         "username": "facuacevedo",
         "url": "https://github.com/facuacevedo",
-        "icon": "../../icons/Github.svg"
+        "icon": "/icons/Github.svg"
       }
     ]
   },
