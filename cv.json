@@ -2,10 +2,10 @@
   "basics": {
     "name": "Facundo Emir Acevedo",
     "label": "FrontEnd Developer",
-    "image": "./src/images/profile-img.png",
+    "image": "./src/images/profile-img.webp",
     "email": "acevedofacundoemir@gmail.com",
     "phone": "+54 9 1123912161",
-    "summary": "Soy una persona responsable, organizada, empática y altruista.Aprendo muy rápido, me encanta el trabajo en equipo y me apasionan los desafios. Se trabajar bajo presión y soy muy versátil. Muy optimista, me gusta solucionar problemas y encontrar soluciones.",
+    "summary": "Soy una persona responsable, organizada, empática y altruista. Aprendo muy rápido, me encanta el trabajo en equipo y me apasionan los desafios. Se trabajar bajo presión y soy muy versátil. Muy optimista, me gusta solucionar problemas y encontrar soluciones.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -43,7 +43,7 @@
       "url": "",
       "startDate": "2023-10-10",
       "endDate": "2024-02",
-      "summary": "Trabajé como Anlista de Calidad para una empresa de Customer Care, algunas de mis tareas eran: elaboración y análisis de informes (destacando fortalezas y oportunidades de mejora por agente y grupo), análisis e identificación de posibles ineficiencias en la creación de casos, calibración de casos: análisis, evaluación y critica de casos aleatorios identificando patrones y áreas de mejora, reversión de casos detractores identificados a través de las puntuaciones de encuestas recibidas. Si bien este trabajo no está relacionado al rubro, obtuve una grata experiencia en la toma de decisiones, ya que debíamos solucionar los inconvenientes ocasiones de manera rápida y eficaz."
+      "summary": "Trabajé como Anlista de Calidad para una empresa de Customer Care, algunas de mis tareas eran: elaboración y análisis de informes (destacando fortalezas y oportunidades de mejora por agente y grupo), análisis e identificación de posibles ineficiencias en la creación de casos, calibración de casos: análisis, evaluación y critica de casos aleatorios identificando patrones y áreas de mejora, reversión de casos detractores identificados a través de las puntuaciones de encuestas recibidas. Si bien este trabajo no está relacionado al rubro, obtuve una grata experiencia en la toma de decisiones, ya que debíamos solucionar los inconvenientes de manera rápida y eficaz."
     }
   ],
   "education": [
