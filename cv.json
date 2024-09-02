@@ -2,7 +2,7 @@
   "basics": {
     "name": "Facundo Emir Acevedo",
     "label": "FrontEnd Developer",
-    "image": "./src/images/profile-img.webp",
+    "image": "./public/images/profile-image.webp",
     "email": "acevedofacundoemir@gmail.com",
     "phone": "+54 9 1123912161",
     "summary": "Soy una persona responsable, organizada, empática y altruista. Aprendo muy rápido, me encanta el trabajo en equipo y me apasionan los desafios. Se trabajar bajo presión y soy muy versátil. Muy optimista, me gusta solucionar problemas y encontrar soluciones.",
@@ -18,13 +18,13 @@
         "network": "LinkedIn",
         "username": "facundo-emir-acevedo",
         "url": "https://www.linkedin.com/in/facundo-emir-acevedo/",
-        "icon": "./src/icons/LinkedIn.svg"
+        "icon": "../../icons/LinkedIn.svg"
       },
       {
         "network": "GitHub",
         "username": "facuacevedo",
         "url": "https://github.com/facuacevedo",
-        "icon": "./src/icons/Github.svg"
+        "icon": "../../icons/Github.svg"
       }
     ]
   },
@@ -67,47 +67,47 @@
   "skills": [
     {
       "name": "React",
-      "url": "./src/icons/React.svg"
+      "url": "/icons/React.svg"
     },
     {
       "name": "React Native",
-      "url": "./src/icons/React.svg"
+      "url": "/icons/React.svg"
     },
     {
       "name": "Typescript",
-      "url": "./src/icons/Typescript.svg"
+      "url": "/icons/Typescript.svg"
     },
     {
       "name": "Javascript",
-      "url": "./src/icons/Javascript.svg"
+      "url": "/icons/Javascript.svg"
     },
     {
       "name": "HTML",
-      "url": "./src/icons/Html.svg"
+      "url": "/icons/Html.svg"
     },
     {
       "name": "CSS",
-      "url": "./src/icons/Css.svg"
+      "url": "/icons/Css.svg"
     },
     {
       "name": "Tailwind",
-      "url": "./src/icons/Tailwind.svg"
+      "url": "/icons/Tailwind.svg"
     },
     {
       "name": "Shadcn",
-      "url": "./src/icons/Shadcn.svg"
+      "url": "/icons/Shadcn.svg"
     },
     {
       "name": "MySQL",
-      "url": "./src/icons/Mysql.svg"
+      "url": "/icons/Mysql.svg"
     },
     {
       "name": "Git",
-      "url": "./src/icons/Git.svg"
+      "url": "/icons/Git.svg"
     },
     {
       "name": "GitHub",
-      "url": "./src/icons/Github.svg"
+      "url": "/icons/Github.svg"
     }
   ],
   "languages": [
